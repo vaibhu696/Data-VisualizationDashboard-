@@ -10,7 +10,7 @@
 # Installation
 To get started with the BlackCoffer Visualization Dashboard:
 
-Clone this repository: git clone https://github.com/RiteshKumarShukla/BlackCoffer-Visualization-Dashboard.git
+Clone this repository: git clone https:
 Navigate to the project directory: cd BlackCoffer-Visualization-Dashboard
 Install dependencies:
 Backend: cd server && npm install
